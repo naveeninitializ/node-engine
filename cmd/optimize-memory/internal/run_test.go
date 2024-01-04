@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/paketo-buildpacks/node-engine/cmd/optimize-memory/internal"
+	"github.com/naveeninitializ/node-engine/cmd/optimize-memory/internal"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
